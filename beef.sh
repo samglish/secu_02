@@ -17,7 +17,7 @@ echo " 2. Non"
 read -p "Choix : " choix
 if [ $choix -eq 1 ];
 then
-beef-xss
+sudo beef-xss
 else 
 exit
 fi

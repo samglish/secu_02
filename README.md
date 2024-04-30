@@ -62,3 +62,18 @@ avril 30 23:41:26 parrotOS systemd[1]: Started beef-xss.
 ```
 Cliquez sur `http://127.0.0.1:3000/ui/panel`
 
+<img src="s1.png" width="70%">
+
+Apres validation
+
+<img src="s2.png" width="70%">
+
+Ensuite ` basic demo page here,`
+
+<img src="s3.png" width="70%">
+
+Verifier les exploits et actions en fonction de votre besoin 
+
+<img src="s4.png" width="70%">
+
+<img src="s5.png" width="70%">
